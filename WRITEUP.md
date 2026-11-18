@@ -39,8 +39,6 @@ The system would identify affected proposals and re evaluate them consistently u
 
 - Missing information: Flag unresolved mandatory or weighted fields. Do not silently invent values or finalize incomplete rankings.
 
-- Configuration errors: Validate new rules and weights before activation, preserve previous versions, and re-evaluate affected proposals under one consistent version.
-
 - Cost: Use AI only for document interpretation and structured extraction, avoid unnecessary repeated calls, and use ordinary code for calculations and validation.
 
 The system would support a transparent, repeatable evaluation process while keeping human reviewers responsible for verification and the final award decision.
